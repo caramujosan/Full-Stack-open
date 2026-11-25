@@ -1,5 +1,10 @@
 # Full-Stack-open
-Helsinki University's Full Stack courses with React and React Native
+![Static Badge](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Zustand-brown?style=flat&logo=zustand&logoSize=auto&labelColor=white&link=https%3A%2F%2Fzustand.docs.pmnd.rs%2Flearn%2F)
+![Static Badge](https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoSize=auto&link=https%3A%2F%2Freact.dev%2F)
+![Static Badge](https://img.shields.io/badge/React_Native-lightgrey?style=flat&logo=react&labelColor=black&logoSize=auto&link=https%3A%2F%2Freactnative.dev%2F)
+
+Helsinki University's Full Stack courses with JavaScript, Zustand, React and React Native
 
 ---
 
