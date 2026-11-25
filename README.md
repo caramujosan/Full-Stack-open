@@ -1,8 +1,8 @@
 # Full-Stack-open
-![Static Badge](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Zustand-brown?style=flat&logo=zustand&logoSize=auto&labelColor=white&link=https%3A%2F%2Fzustand.docs.pmnd.rs%2Flearn%2F)
-![Static Badge](https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoSize=auto&link=https%3A%2F%2Freact.dev%2F)
-![Static Badge](https://img.shields.io/badge/React_Native-lightgrey?style=flat&logo=react&labelColor=black&logoSize=auto&link=https%3A%2F%2Freactnative.dev%2F)
+[![Static Badge](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&logoSize=auto)](https://www.w3schools.com/js/default.asp)
+[![Static Badge](https://img.shields.io/badge/Zustand-lightgrey?style=flat&logo=zustand&logoSize=auto&labelColor=white)](https://zustand.docs.pmnd.rs/learn/)
+[![Static Badge](https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoSize=auto)](https://react.dev/)
+[![Static Badge](https://img.shields.io/badge/React_Native-lightgrey?style=flat&logo=react&labelColor=black&logoSize=auto)](https://reactnative.dev/)
 
 Helsinki University's Full Stack courses with JavaScript, Zustand, React and React Native
 
