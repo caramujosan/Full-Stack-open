@@ -1,3 +1,5 @@
+> :warning: **Warning:** I am using NixOS, the ***flake.nix*** file is committed just for the purpose of MY current development environment. If you are using any other OS and clone this repository, just delete this file. I'll be deleting the flake.nix at the end of the course from this repository.
+
 # Full-Stack-open
 [![Static Badge](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&logoSize=auto)](https://www.w3schools.com/js/default.asp)
 [![Static Badge](https://img.shields.io/badge/Zustand-lightgrey?style=flat&logo=zustand&logoSize=auto&labelColor=white)](https://zustand.docs.pmnd.rs/learn/)
